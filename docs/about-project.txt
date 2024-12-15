@@ -1,0 +1,3 @@
+The "Aguia" project is a software personal management for high performance user.
+
+Management your studies, finances, hobbies, business, family docs, objectives, dreams and others.
