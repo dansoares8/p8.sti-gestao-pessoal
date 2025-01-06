@@ -1,3 +1,9 @@
 The "Aguia" project is a software personal management for high performance user.
 
 Management your studies, finances, hobbies, business, family docs, objectives, dreams and others.
+
+
+Finanças:
+-(Finanças=Painel principal)Cadastrar entrada e saída de $ e ter uma tela só com todas as operações, ter filtros e barra de filtro por nome/categoria.
+-(Finanças>Jogos de azar): Cadastrar os jogos com titulo, descrição, valor, categoria (IN ou OUT), foto, data do sorteio.
+
